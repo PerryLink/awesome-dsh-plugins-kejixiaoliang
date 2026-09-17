@@ -4,7 +4,7 @@
 
 ## 游戏
 
-- [dsh-gomoku](https://github.com/omdsh-dev/dsh-gomoku) — 与 AI 下五子棋，也可双 AI 对弈比棋力 ⭐23 · `dsh plugin add @deepseek-ai/dsh-gomoku`
+- [dsh-gomoku](https://github.com/omdsh-dev/dsh-gomoku) — 与 AI 下五子棋，也可双 AI 对弈比棋力 ⭐24 · `dsh plugin add @deepseek-ai/dsh-gomoku`
 - [dsh-minigames](https://github.com/lhh010/dsh-minigames) — 右侧 18 款离线小游戏面板（恐龙跳一跳/俄罗斯方块/扫雷/2048…） ⭐32 · `dsh plugin add @dsh-external/dsh-minigames`
 - [dsh-auto-chess](https://github.com/omdsh-dev/dsh-auto-chess) — 自走棋：人机对战或双 AI 对弈 ⭐2 · `dsh plugin add @deepseek-ai/dsh-auto-chess`
 - [dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) — 模型生成时弹出小游戏菜单（wordle/消消乐，可扩展） ⭐8 · `dsh plugin add @huanlin/dsh-plugin-d399`
@@ -21,7 +21,7 @@
 
 ## 整活 / 音效 / 趣味
 
-- [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) — 2005 中文站点风格整活广告（侧栏/信息流/弹窗，素材全虚构） ⭐626 · `dsh plugin add @dsh-external/dsh-ads`
+- [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) — 2005 中文站点风格整活广告（侧栏/信息流/弹窗，素材全虚构） ⭐627 · `dsh plugin add @dsh-external/dsh-ads`
 - [dsh-stock-market](https://github.com/AnacondaKC/dsh-stock-market) — 股票行情数据插件（整活向） ⭐19 · `dsh plugin add dsh-stock-market`
 - [dsh-douyin](https://github.com/AnacondaKC/dsh-douyin) — 侧栏短视频：原生播放器、系列导航、历史回放 ⭐5 · `dsh plugin add dsh-douyin`
 - [deepseek-manners](https://github.com/Moeblack/deepseek-manners) — 每次消息后注入感谢语，做个有礼貌的人 ⭐14 · `dsh plugin add deepseek-manners`
@@ -47,7 +47,7 @@
 - [dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) — DSH 会话费用统计（本会话/当日/历史 + 官方价格同步） ⭐306 · `dsh plugin add github:Han-1413141/dsh-cost-meter`
 - [dsh-user-experience](https://github.com/DietCokewithSugar/dsh-user-experience) — persona 驱动的 UX 走查：扫描 React/TS 源码找 UX 问题 ⭐19 · `dsh plugin add github:DietCokewithSugar/dsh-user-experience`
 - [dsh-balance-meter](https://github.com/Ghost011118/dsh-balance-meter) — DeepSeek 账户余额与会话成本显示 ⭐18 · `dsh plugin add github:Ghost011118/dsh-balance-meter`
-- [dsh-novel-writer](https://github.com/siweina/dsh-novel-writer) — 中文小说写作助手：句式/情感/意象分析、文笔六维基线带（μ±σ 对照）、12 轴氛围光谱、风格画像报告、本地语义检索（0 token）+ 伏笔设定管理，15 个工具 ⭐16 · `dsh plugin add dsh-novel-writer`
+- [dsh-novel-writer](https://github.com/siweina/dsh-novel-writer) — 中文小说写作助手：句式/情感/意象分析、文笔六维基线带（μ±σ 对照）、12 轴氛围光谱、风格画像报告、本地语义检索（0 token）+ 伏笔设定管理，15 个工具 ⭐17 · `dsh plugin add dsh-novel-writer`
 
 <!-- nav:start -->
 ---
