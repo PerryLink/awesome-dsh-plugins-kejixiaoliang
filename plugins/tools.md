@@ -38,6 +38,9 @@
 - [dsh-webdav-server](https://github.com/weibaohui/dsh-webdav-server) — WebDAV 服务器：把一个共享目录变成 Windows/macOS/Linux 都能挂载成本地磁盘的 WebDAV 服务，令牌认证、可选只读、目录/端口/令牌全可配，设置页自带三平台挂载指南 ⭐1 · `dsh plugin add @weibaohui/dsh-webdav-server`
 - [dsh-file-share](https://github.com/weibaohui/dsh-file-share) — 会话工作区文件管理：在对话区加「文件」tab，浏览当前会话工作区的目录树并就地管理（上传/下载/新建文件夹/改名/删除/搜索），文件可 @ 进对话框给 agent 处理 ⭐1 · `dsh plugin add @weibaohui/dsh-file-share`
 - [dsh-dashboard](https://github.com/weibaohui/dsh-dashboard) — 使用量仪表盘：离线扫描会话日志，统计每日/每周/每月 token、估算费用、模型/工具/技能/命令榜、输出速度、工作时段与质量指标；gridstack+ECharts 卡片可拖拽编排，支持自定义公式与 AI 编排（提示词往返导入） · `dsh plugin add @weibaohui/dsh-dashboard`
+- [dsh-github](https://github.com/PerryLink/dsh-github) — GitHub 集成：PR/Issue/仓库/文件工具与审查机器人（行内评论 + 状态门禁），写操作均需人工审批 · `dsh plugin add @perrylink/dsh-github`
+- [dsh-ticktick](https://github.com/PerryLink/dsh-ticktick) — 滴答清单任务桥：会话头部任务面板（筛选/搜索/拖拽排序）与 11 个任务工具，走官方 TickTick MCP 端点 · `dsh plugin add @perrylink/dsh-ticktick`
+- [dsh-laya](https://github.com/PerryLink/dsh-laya) — Laya 的有类型决策（noul 是/否、choice、score）作为一等 Cordis 服务与两个模型可见工具；插件自身不安装也不下载任何东西，由你自行启动的 `laya-mcp serve` 边车提供模型 · `dsh plugin add dsh-laya`
 
 <!-- nav:start -->
 ---
